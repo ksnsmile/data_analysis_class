@@ -42,3 +42,11 @@
 
 ### 결론 : 라이브러리 > 패키지 > 모듈
 
+
+### Cloud computing service model
+
+IaaS(Infrastructure as a service): 인프라 수준의 서비스로 서버와 스토리지 같은 리소스를 제공합니다.
+
+PaaS(Platform as a service): 개발자에게 플랫폼 환경을 제공해 애플리케이션 개발과 배포를 지원합니다.
+
+SaaS( Software as a service): 완전히 운영되는 소프트웨어를 제공하며, 사용자는 애플리케이션을 웹을 통해 사용합니다.
